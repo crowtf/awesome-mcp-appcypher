@@ -437,6 +437,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- <img height="12" width="12" src="https://raw.githubusercontent.com/crowtf/crowllm-mcp/main/assets/logo-400.png" alt="CrowLLM Logo" /> [CrowLLM](https://github.com/crowtf/crowllm-mcp) - MCP server for CrowLLM: search the model catalogue, read per-million-token prices, and run chat completions through one OpenAI-compatible key.
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
